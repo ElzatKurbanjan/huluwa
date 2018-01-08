@@ -1,6 +1,6 @@
-package Position;
+package Elzat.java.Position;
 
-import creature.Creature;
+import Elzat.java.creature.Creature;
 
 //此类中的XY为实际像素的XY
 public class Position {

@@ -1,8 +1,8 @@
-package Battle;
+package Elzat.java.Battle;
 
-import Formation.*;
-import UI.Field;
-import creature.*;
+import Elzat.java.Formation.*;
+import Elzat.java.UI.Field;
+import Elzat.java.creature.*;
 
 import java.util.ArrayList;
 import java.util.Random;

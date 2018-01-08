@@ -1,9 +1,9 @@
-package  creature;
-import Battle.Queue;
-import UI.Field;
+package  Elzat.java.creature;
+import Elzat.java.Battle.Queue;
+import Elzat.java.UI.Field;
 
 
-import UI.Thing2D;
+import Elzat.java.UI.Thing2D;
 
 import java.awt.Image;
 import java.io.BufferedWriter;

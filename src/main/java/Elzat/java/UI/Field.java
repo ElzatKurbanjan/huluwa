@@ -1,4 +1,4 @@
-package UI;
+package Elzat.java.UI;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -8,10 +8,10 @@ import java.io.*;
 import java.util.ArrayList;
 import javax.swing.*;
 
-import Battle.Battle;
-import Position.Position;
-import creature.Creature;
-import creature.Name;
+import Elzat.java.Battle.Battle;
+import Elzat.java.Position.Position;
+import Elzat.java.creature.Creature;
+import Elzat.java.creature.Name;
 
 public class Field extends JPanel {
 
@@ -127,7 +127,7 @@ public class Field extends JPanel {
 
         for (int i = 0; i < creatures.size(); i++) {
 
-            UI.Thing2D item = (UI.Thing2D) creatures.get(i);
+           Thing2D item = (Thing2D) creatures.get(i);
 
             g.drawImage(item.getImage(), item.getPosition().getX(), item.getPosition().getY(), this);
 

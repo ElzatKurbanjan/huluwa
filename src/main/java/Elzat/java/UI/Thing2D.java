@@ -1,5 +1,5 @@
-package UI;
-import Position.Position;
+package Elzat.java.UI;
+import Elzat.java.Position.Position;
 
 import java.awt.Image;
 

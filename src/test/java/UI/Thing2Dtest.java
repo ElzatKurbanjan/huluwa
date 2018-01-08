@@ -1,6 +1,7 @@
 package UI;
 
-import Position.Position;
+import Elzat.java.Position.Position;
+import Elzat.java.UI.Thing2D;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

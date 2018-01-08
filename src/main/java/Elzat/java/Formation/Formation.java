@@ -1,4 +1,4 @@
-package Formation;
+package Elzat.java.Formation;
 
 public class Formation {
     protected  boolean [][]formation;

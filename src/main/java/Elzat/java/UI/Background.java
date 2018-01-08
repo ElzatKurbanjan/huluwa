@@ -1,4 +1,4 @@
-package UI;
+package Elzat.java.UI;
 
 import javax.swing.*;
 import java.awt.*;

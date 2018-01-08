@@ -1,9 +1,9 @@
-package Battle;
+package Elzat.java.Battle;
 
-import Position.Position;
-import UI.Field;
-import creature.Creature;
-import Formation.Formation;
+import Elzat.java.Position.Position;
+import Elzat.java.UI.Field;
+import Elzat.java.creature.Creature;
+import Elzat.java.Formation.Formation;
 
 //势力队列类
 public class Queue {

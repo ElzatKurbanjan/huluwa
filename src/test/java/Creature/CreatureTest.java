@@ -1,8 +1,8 @@
 package Creature;
 
-import UI.Field;
-import creature.Creature;
-import creature.Name;
+import Elzat.java.UI.Field;
+import Elzat.java.creature.Creature;
+import Elzat.java.creature.Name;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

@@ -1,6 +1,6 @@
 package Creature;
 
-import UI.Field;
+import Elzat.java.UI.Field;
 import org.junit.Test;
 
 import java.io.File;

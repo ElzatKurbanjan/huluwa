@@ -1,6 +1,6 @@
 package Elzat.java;
 
-import UI.Background;
+import Elzat.java.UI.Background;
 
 public class Main {
 

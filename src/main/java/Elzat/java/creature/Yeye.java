@@ -1,6 +1,6 @@
-package creature;
+package Elzat.java.creature;
 
-import UI.Field;
+import Elzat.java.UI.Field;
 
 public class Yeye extends Creature{
 
